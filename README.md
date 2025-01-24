@@ -21,7 +21,7 @@ To encrypt a file, use the `enc.go` script. The script will encrypt the specifie
 go run enc.go <input-file>
 ```
 
-# Decryption (`dec.go`)
+### Decryption (`dec.go`)
 
 To decrypt a file, use the dec.go script. The script will decrypt the specified file and replace it with the original.
 
